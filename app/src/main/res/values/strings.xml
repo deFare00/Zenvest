@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zenvest</string>
+    <string name="nama_market">Lorem</string>
+    <string name="stock_value">xxxx</string>
+    <string name="stock_change">+xxx%</string>
+    <string name="search_prediction">Search Prediction</string>
+</resources>
