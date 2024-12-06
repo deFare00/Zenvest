@@ -5,4 +5,6 @@
     <color name="green_search">#386641</color>
     <color name="placeholder">#DAD7CD</color>
     <color name="greenBackground">#344E41</color>
+    <color name="bottom_nav_icon">#A5F9A9</color>
+    <color name="holo_blue_light">#0000FF</color>
 </resources>
