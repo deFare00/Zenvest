@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#344E41</color>
+    <color name="grey">#99EBEBEB</color>
+    <color name="green_search">#386641</color>
+    <color name="placeholder">#DAD7CD</color>
+    <color name="greenBackground">#344E41</color>
+    <color name="bottom_nav_icon">#A5F9A9</color>
+    <color name="holo_blue_light">#0000FF</color>
+    <color name="my_light_primary">#4CAF50</color>
+    <color name="my_dark_primary">@color/black</color>
+</resources>

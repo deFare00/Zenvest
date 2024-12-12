@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Zenvest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nama_market">Lorem</string>
+    <string name="stock_value">xxxx</string>
+    <string name="stock_change">+xxx%</string>
+    <string name="search_prediction">Search Prediction</string>
+    <string name="most_commodities">Most Yearly Percentage</string>
+    <string name="commodity_name">LoremCom</string>
+    <string name="commodity_gain">+xx%</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_news">News</string>
+    <string name="news_page">News Page</string>
+    <string name="title_activity_news">News Page</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="description_news">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="title_news">News Page</string>
+    <string name="date_news">20-09-2024</string>
+    <string name="read_more">Read More</string>
+    <string name="back_button">Back Button</string>
+    <string name="select">Select Coin</string>
+    <string name="suggestion">Jika Anda baru mulai berinvestasi di
+        kripto, pastikan Bitcoin menjadi bagian dari portofolio Anda.
+        Sebagai mata uang kripto pertama dan dengan kapitalisasi
+        pasar terbesar, Bitcoin menawarkan kestabilan yang lebih baik
+        dibandingkan altcoin lainnya.</string>
+    <string name="nav_portfolio">Sizing</string>
+</resources>
