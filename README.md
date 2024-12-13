@@ -1,44 +1,34 @@
 <h1 align="center">
-  <img align="center" src="ZENVEST 1.jpg"  width="270"></img>
+  <img align="center" src="ZenVest1.jpg"  width="270"></img>
 <br>
-AUDI (Autism-detector-for-children)
+ZENVEST
 </h1>
 
 # Profile
 
-### Team ID : C22-PS227
+### Team ID : C242-PS543
 
 ### Members
 
-* M2123G1559 - [M. Mukhtarul Lathief](https://github.com/lathief)
-* M2312G2705 - [Fida` Mardliyah](https://github.com/fidamardliyah)
-* A7315F2747 - [Muhammad Rafie Chautie](https://github.com/rafiechautie)
-* A7135K1608 - [Muhammad Rafli Salam](https://github.com/raflisalam)
-* C2315F2745 - [Rizki Ade Ningsih](https://github.com/rizkiade18)
-* C2135J1619 - [St. Rabiathul Ad'wiah Yusri](https://github.com/wiahy)
+* M009B4KX1176 - [Diva Maharani Adila](https://github.com/divaadila)
+* M001B4KY1408 - [Farhan Lado Anggaraksa Mascahyanto](https://github.com/FarhanLado)
+* M319B4KY1553 - [Frederick](https://github.com/Frederickyzw)
+* C278B4KY2339 - [M Faiz Hidayatullah N Junus](https://github.com/faizhidayatullah)
+* C206B4KY2610 - [Muh. Fadjriano Aprilindo T.](https://github.com/fajritaridala)
+* A009B4KY1028 - [Defarhan Nugraha Fadhali](https://github.com/deFare00)
 
 ### Roles/personnel
 
-* Machine Learning (M2123G1559 - M. Mukhtarul Lathief, M2312G2705 - Fida` Mardliyah)
-* UI/UX & Android Development (A7315F2747 - Muhammad Rafie Chautie, A7135K1608 - Muhammad Rafli Salam)
-* Cloud Computing (C2315F2745 - Rizki Ade Ningsih, C2135J1619 - St. Rabiathul Ad'wiah Yusri)
+* Machine Learning (M009B4KX1176 - Diva Maharani Adila, M001B4KY1408 - Farhan Lado Anggaraksa Mascahyanto, M319B4KY1553 - Frederick)
+* UI/UX & Android Development (A009B4KY1028 - Defarhan Nugraha Fadhali)
+* Cloud Computing (C278B4KY2339 - M Faiz Hidayatullah N Junus, C206B4KY2610 - Muh. Fadjriano Aprilindo T.)
 
 # AUDI
-This project is our final project for Google Bangkit Academy 2021.
-
-**Machine Learning:**
-[AUDI - ML](https://github.com/rafiechautie/Autism-detector-for-children/tree/main/Machine-Learning)
-
-**Cloud:**
-[AUDI - Google Cloud](https://github.com/rafiechautie/Autism-detector-for-children/tree/main/Cloud-Computing)
-
-**Android:**
-[AUDI - Android](https://github.com/rafiechautie/Autism-detector-for-children/tree/main/Mobile-Development)
-
+This project is our final project for Google Bangkit Academy 2024 Batch 2.
 
 **Backgrounder:**
 
-Autism is a syndrome of brain development that attacks the sufferer. The person that has autism syndrome usually has difficulty communicating and interacting with other people. This type of disorder has been present since childhood. Most parents don’t know that their children have autism symptoms. Most parents also have no knowledge about how to deal with autism syndrome for their children. The question is how can parents detect whether their child has autism or not? And how do they deal with it? With this application, the parents that have a child can detect whether their child has autism symptoms or not. By knowing earlier, the child who has autism syndrome can be treated earlier so that the changes to recovery are greater. With this application we also hope to provide nearby therapy place from user location. also with this application as the first check in predicting autism before doing a more detailed check by a doctor. Our team hopes the proposed application will be a solution for parents who have children with autism syndrome.
+Investing in Indonesia is increasingly accessible, but a gap remains between financial literacy (65.43%) and financial inclusion (75.02%), highlighting the need for better understanding of financial risks. To address this issue, we developed a predictive app for young investors, using machine learning with TensorFlow to analyze historical market data and predict cryptocurrency trends. The app provides data-driven insights in an intuitive format to help investors make informed, lower-risk decisions. Our plan involved developing a Machine Learning model using LSTM to predict price movements, integrating a real-time API through Cloud Computing for up-to-date data, and building a mobile application with a user-friendly interface for seamless access to predictions and insights. As a result, the application has been successfully developed, empowering young investors to make informed decisions and contributing to the growth of Indonesia's financial ecosystem.
 
 ## Screenshots
 
