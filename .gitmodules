@@ -1,0 +1,6 @@
+[submodule "news"]
+	path = news
+	url = https://github.com/faizhidayatullah/news-api.git
+[submodule "prices"]
+	path = prices
+	url = https://github.com/fajritaridala/prices-api.git
