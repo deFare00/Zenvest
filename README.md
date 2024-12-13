@@ -33,25 +33,21 @@ Investing in Indonesia is increasingly accessible, but a gap remains between fin
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/rafiechautie/Autism-detector-for-children/blob/main/splashscreen.jpeg" width="200">
-  <img src="login.jpeg" width="200">
-  <img src="/register.jpeg" width="200">
+  <img src="Home.jpeg" width="200">
 </p>
 
 <p align="center">
-  <img src="main.png" width="210">
-  <img src="https://github.com/rafiechautie/Autism-detector-for-children/blob/main/consultation2.png" width="210">
-  <img src="https://github.com/rafiechautie/Autism-detector-for-children/blob/main/Halaman%20Detecion.png" width="210">
+  <img src="Details.jpeg" width="210">
+  <img src="News.jpeg" width="210">
 </p>
 
 <p align="center">
-  <img src="https://github.com/rafiechautie/Autism-detector-for-children/blob/main/map.png" width="210">
-  <img src="https://github.com/rafiechautie/Autism-detector-for-children/blob/main/consultation.png" width="210">
+  <img src="Portfolio.jpeg" width="210">
 </p>
 
 
 ## Requirement
-* Android Studio Bumblebee
+* Android Studio Koala
 * Android Device or Android Emulator 
 * Emulator / External Device
 * USB Cable (to Connect Android Device to your Computer)
@@ -60,7 +56,7 @@ Investing in Indonesia is increasingly accessible, but a gap remains between fin
 
 #### 1. Clone this Project to your Computer
 ```bash
-git clone https://github.com/rafiechautie/Autism-detector-for-children.git
+git clone https://github.com/deFare00/Zenvest.git
 ```
 
 or you can use Android Studio 
@@ -75,7 +71,7 @@ Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now
 
 ### the orther way
 
-#### 1. download file APK in https://drive.google.com/file/d/13v1orGnO2W3ND_NGA3awuj4rSJ5-eB8A/view?usp=sharing 
+#### 1. download file APK in https://drive.google.com/file/d/1adqySSw-xXFtlJL8rLsAjVMiR_lIvWSj/view?usp=sharing
 ### 2. install that file in your mobile phone
 
 ## Thank You :)
