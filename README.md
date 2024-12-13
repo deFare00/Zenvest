@@ -32,18 +32,7 @@ Investing in Indonesia is increasingly accessible, but a gap remains between fin
 
 ## Screenshots
 
-<p align="center">
-  <img src="Home.jpeg" width="200">
-</p>
 
-<p align="center">
-  <img src="Details.jpeg" width="210">
-  <img src="News.jpeg" width="210">
-</p>
-
-<p align="center">
-  <img src="Portfolio.jpeg" width="210">
-</p>
 
 
 ## Requirement
