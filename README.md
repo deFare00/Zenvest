@@ -69,7 +69,7 @@ Open Android Studio and select open an existing project.
 #### 3. Run Project in Android Studio
 Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator 
 
-### the orther way
+### the other way
 
 #### 1. download file APK in https://drive.google.com/file/d/1adqySSw-xXFtlJL8rLsAjVMiR_lIvWSj/view?usp=sharing
 ### 2. install that file in your mobile phone
